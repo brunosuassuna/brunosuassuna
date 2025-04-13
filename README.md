@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://beacons.ai/brunosuassuna" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FFB000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-7B7B7B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -81,8 +81,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosuassuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosuassuna&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosuassuna&layout=compact&langs_count=10&theme=dracula&card_width=300"/>
 </div>
+
+
 ---
 
 ## 🌟 Sobre mim (EN)
