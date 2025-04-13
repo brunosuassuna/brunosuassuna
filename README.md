@@ -7,13 +7,15 @@
 <p align="center">
   <a href="https://beacons.ai/brunosuassuna" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FFB000?style=for-the-badge&logo=react&logoColor=white" />
+
 <a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-  <a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-7B7B7B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-7B7B7B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 
