@@ -72,7 +72,7 @@
 
 | 💼 Projeto | 🔍 Descrição |
 |-----------|-------------|
-| [🍷 Wine Quality Analysis](https://github.com/brunosuassuna/wine-quality-analysis) | Análise avançada de datasets de vinhos utilizando PySpark no Databricks, com ETL completo, análise exploratória e modelagem preditiva |
+| [🍷 Wine Quality Analysis](https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos) | Análise avançada de datasets de vinhos utilizando PySpark no Databricks, com ETL completo, análise exploratória e modelagem preditiva |
 | [🔐 API_Gerenciamento_Usuarios](https://github.com/brunosuassuna/API_Gerenciamento_Usuarios) | API RESTful desenvolvida em Python para controle e autenticação de usuários |
 | [🎓 Brothers-Learning](https://github.com/brunosuassuna/Brothers-Learning) | Plataforma de aprendizado com backend em PHP para cursos e conteúdos educacionais |
 | [🎮 Projeto-Brothers-Play](https://github.com/brunosuassuna/Projeto-Brothers-Play) | Aplicação em Java voltada para cadastro e gerenciamento de jogos |
