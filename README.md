@@ -77,6 +77,7 @@
 | [🎓 Brothers-Learning](https://github.com/brunosuassuna/Brothers-Learning) | Plataforma de aprendizado com backend em PHP para cursos e conteúdos educacionais |
 | [🎮 Projeto-Brothers-Play](https://github.com/brunosuassuna/Projeto-Brothers-Play) | Aplicação em Java voltada para cadastro e gerenciamento de jogos |
 | [📊 MVP-Engenharia-de-Dados](https://github.com/brunosuassuna/MVP-Engenharia-de-Dados) | Pipeline completo de engenharia de dados com Databricks e análise estratégica |
+| [🦠 COVID-19 Global Data Analysis](https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis) |  A análise do impacto global da COVID-19, com foco no Brasil, usará Databricks DeltaLake para armazenar dados e Plotly para visualizações interativas, com Pandas para manipulação dos dados. |
 
 ---
 
