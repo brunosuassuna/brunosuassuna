@@ -78,6 +78,7 @@
 | [🎮 Projeto-Brothers-Play](https://github.com/brunosuassuna/Projeto-Brothers-Play) | Aplicação em Java voltada para cadastro e gerenciamento de jogos |
 | [📊 MVP-Engenharia-de-Dados](https://github.com/brunosuassuna/MVP-Engenharia-de-Dados) | Pipeline completo de engenharia de dados com Databricks e análise estratégica |
 | [🦠 COVID-19 Global Data Analysis](https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis) |  A análise do impacto global da COVID-19, com foco no Brasil, usará Databricks DeltaLake para armazenar dados e Plotly para visualizações interativas, com Pandas para manipulação dos dados. |
+| [📊 Análise de Mercado de Criptomoedas - Bitcoin e Ethereum](https://github.com/brunosuassuna/Analise-de-Criptomoedas-Bitcoin-Ethereum) |  Este repositório apresenta uma análise aprofundada do mercado de criptomoedas, com foco principal em Bitcoin (BTC) e Ethereum (ETH), desenvolvida no ambiente Databricks. |
 
 ---
 
