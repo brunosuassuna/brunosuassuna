@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://beacons.ai/brunosuassuna" target="_blank">
+  <a href="https://brunosuassuna.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FFB000?style=for-the-badge&logo=react&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
