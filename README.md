@@ -72,6 +72,8 @@
 
 | 💼 Projeto | 🔍 Descrição |
 |-----------|-------------|
+| [✈️ Análise de Séries Temporais de Passageiros Aéreos](https://github.com/brunosuassuna/Analise-Temporal-de-Passageiros-Aereos) |Este projeto analisa dados históricos de passageiros aéreos com técnicas de séries temporais em Python, visando identificar padrões, tendências e prever a demanda futura. |
+| [🚖 Análise de Corridas de Táxi em NYC](https://github.com/brunosuassuna/Analise-de-Corridas-de-Taxi-em-NYC) | Análise exploratória do dataset público samples.nyctaxi.trips, com foco em padrões temporais, geográficos e financeiros das corridas de táxi em Nova York, utilizando o ambiente Databricks. |
 | [🍷 Wine Quality Analysis](https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos) | Análise avançada de datasets de vinhos utilizando PySpark no Databricks, com ETL completo, análise exploratória e modelagem preditiva |
 | [🔐 API_Gerenciamento_Usuarios](https://github.com/brunosuassuna/API_Gerenciamento_Usuarios) | API RESTful desenvolvida em Python para controle e autenticação de usuários |
 | [🎓 Brothers-Learning](https://github.com/brunosuassuna/Brothers-Learning) | Plataforma de aprendizado com backend em PHP para cursos e conteúdos educacionais |
