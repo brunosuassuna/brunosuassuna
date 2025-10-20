@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Suassuna!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+na+The+Store+Intelligence;Cientista+de+Dados+em+formacao;Transformando+dados+em+decisoes+estrategicas;Explorando+Azure%2C+Databricks+e+Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+na+The+Store+Intelligence;Cientista+de+Dados;Transformando+dados+em+decisoes+estrategicas;Explorando+Azure%2C+Databricks+e+Big+Data" alt="Typing SVG" />
 </p>
 
 
