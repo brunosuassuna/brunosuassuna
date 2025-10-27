@@ -1,109 +1,243 @@
-<h1 align="center">👋 Olá, eu sou o Bruno Suassuna!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+na+The+Store+Intelligence;Cientista+de+Dados;Transformando+dados+em+decisoes+estrategicas;Explorando+Azure%2C+Databricks+e+Big+Data" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <a href="https://brunosuassuna.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-FFB000?style=for-the-badge&logo=react&logoColor=white" />
-
-<a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-7B7B7B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-
----
-
-## 🧑‍💻 Sobre mim
-
-🎓 Formação em **Análise e Desenvolvimento de Sistemas**  
-📍 **João Pessoa, Brasil** | 🌎 Espanhol avançado  
-💼 **Engenheiro de Dados** na The Store Intelligence  
-📚 Pós-graduação em **Ciência de Dados e Analytics** – *PUC-RIO*  
-🎯 **Missão**: Transformar dados em decisões inteligentes, antecipando necessidades futuras.
-
-
----
-
-## 🧠 Skills Técnicas
-
-💼 **Engenharia & Análise de Dados**  
-✔️ Azure Data Factory, Databricks, Pipelines, Power BI  
-✔️ Python (Pandas, NumPy, Seaborn), SQL, APIs  
-✔️ ETL/ELT, Data Lake, Data Warehouse, Snowflake, Esquema Estrela  
-✔️ Git, VS Code, Excel Avançado, Android Studio
-
-🧩 **Soft Skills**  
-✔️ Comunicação clara | Organização | Pensamento analítico | Foco em resultado
-
----
-
-## 📜Certificações
-
-- 🌟 [Governança de Dados: Explorando os Conceitos Fundamentais](https://www.alura.com.br/certificados/2dcf795f-f659-4eae-b4d3-1824b8575e0c) 
-- 🌟 [Data Science: Testando Relações com Regressão Linear](https://www.alura.com.br/certificados/616d92b5-d324-4b61-937c-e90d710cf3a0)  
-- 🌟 [Formação Data Science](https://www.alura.com.br/certificados/5b4e3bf7-0adf-4a17-8aa7-6455fe7cdee1)  
-- 🌟 [Databricks e Data Factory: Criando e Orquestrando Pipelines na Nuvem](https://www.alura.com.br/certificados/f7f1b321-c941-400f-9e69-b0884846dddd) 
-- 🌟 [Fundamentos de Engenharia de Dados](https://www.datascienceacademy.com.br/certificados/6400288ed95562f1e20b5169)
-
-## Competências
-
-- **Ciência de Dados, Engenharia de Dados, SQL**  
-- **Microsoft Power BI, Databricks, Docker, Node.js**  
-- **Scrum, Análise de Dados, Visualização de Dados**
-
----
-
-### Contato
-- **Email:** [brunosuassuna.dev@gmail.com](mailto:brunosuassuna.dev@gmail.com)
-
-
----
-
-## 🚀 Principais Projetos
-
-| 💼 Projeto | 🔍 Descrição |
-|-----------|-------------|
-| [✈️ Análise de Séries Temporais de Passageiros Aéreos](https://github.com/brunosuassuna/Analise-Temporal-de-Passageiros-Aereos) |Este projeto analisa dados históricos de passageiros aéreos com técnicas de séries temporais em Python, visando identificar padrões, tendências e prever a demanda futura. |
-| [🚖 Análise de Corridas de Táxi em NYC](https://github.com/brunosuassuna/Analise-de-Corridas-de-Taxi-em-NYC) | Análise exploratória do dataset público samples.nyctaxi.trips, com foco em padrões temporais, geográficos e financeiros das corridas de táxi em Nova York, utilizando o ambiente Databricks. |
-| [🍷 Wine Quality Analysis](https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos) | Análise avançada de datasets de vinhos utilizando PySpark no Databricks, com ETL completo, análise exploratória e modelagem preditiva |
-| [🚀 Vendas Analytics com PySpark](https://github.com/brunosuassuna/Analise-de-Vendas) | Este projeto apresenta um pipeline completo de geração, processamento e visualização de dados de vendas sintéticos utilizando PySpark, Pandas e Plotly. O objetivo é demonstrar a aplicação de técnicas de engenharia de dados e análise de métricas de negócio em um cenário simulado, com foco em desempenho, clareza e design profissional. |
-| [⚽ Análise de Dados da Premier League 2023-2024](https://github.com/brunosuassuna/premier-league-analysis) |  Este projeto realiza uma análise detalhada dos dados da Premier League para a temporada 2023-2024, com foco em informações sobre a classificação dos times, desempenho individual dos jogadores, gols, assistências e a correlação entre esses fatores.  |
-| [🚦 Análise de Acidentes de Trânsito no Brasil](https://github.com/brunosuassuna/Analise-Acidentes-Transito-Brasil) |  Este repositório contém uma análise detalhada sobre acidentes de trânsito no Brasil. O objetivo é entender os padrões e tendências relacionadas aos acidentes de trânsito, explorar os dados, gerar visualizações e fornecer insights que possam ser usados para melhorar a segurança viária no país.  |
-| [🔐 API_Gerenciamento_Usuarios](https://github.com/brunosuassuna/API_Gerenciamento_Usuarios) | API RESTful desenvolvida em Python para controle e autenticação de usuários |
-| [🎓 Brothers-Learning](https://github.com/brunosuassuna/Brothers-Learning) | Plataforma de aprendizado com backend em PHP para cursos e conteúdos educacionais |
-| [🎮 Projeto-Brothers-Play](https://github.com/brunosuassuna/Projeto-Brothers-Play) | Aplicação em Java voltada para cadastro e gerenciamento de jogos |
-| [📊 MVP-Engenharia-de-Dados](https://github.com/brunosuassuna/MVP-Engenharia-de-Dados) | Pipeline completo de engenharia de dados com Databricks e análise estratégica |
-| [🦠 COVID-19 Global Data Analysis](https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis) |  A análise do impacto global da COVID-19, com foco no Brasil, usará Databricks DeltaLake para armazenar dados e Plotly para visualizações interativas, com Pandas para manipulação dos dados. |
-| [📊 Análise de Mercado de Criptomoedas - Bitcoin e Ethereum](https://github.com/brunosuassuna/Analise-de-Criptomoedas-Bitcoin-Ethereum) |  Este repositório apresenta uma análise aprofundada do mercado de criptomoedas, com foco principal em Bitcoin (BTC) e Ethereum (ETH), desenvolvida no ambiente Databricks. |
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosuassuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosuassuna&layout=compact&langs_count=10&theme=dracula&card_width=300"/>
+
+# 👋 Olá! Eu sou Bruno Suassuna
+
+### Engenheiro de Dados | Cientista de Dados | Especialista em Cloud & Big Data
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-FFB000?style=for-the-badge)](https://brunosuassuna.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-suassuna-698aa7235)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosuassuna.dev@gmail.com)
+
 </div>
 
+---
+
+## 🎯 Sobre Mim
+
+**🚀 Engenheiro de Dados** na **The Store Intelligence**  
+**📍 João Pessoa, Brasil** 🇧🇷  
+**🎓 Pós-Graduação** em Ciência de Dados e Analytics - **PUC-RIO**  
+**💼 Experiência** Engenhe de Dados, Pipelines Escaláveis e Analytics Avançado  
+**🌎 Idiomas:** Português (Nativo) | Espanhol (Avançado)
+
+> 💡 **Missão:** Transformar dados em insights que geram valor real para o negócio
+
+### 🔍 Foco Atual
+- ☁️ Arquitetura de dados em nuvem (Azure)
+- ⚡ Pipelines escaláveis com Databricks e PySpark
+- 📊 Analytics avançado e visualização de dados
+- 🤖 Machine Learning aplicado a negócios
 
 ---
 
-## 🌟 Sobre mim (EN)
+## 🛠️ Stack Tecnológico
 
-Hi! I’m **Bruno Suassuna**, a Data Engineer based in Brazil 🇧🇷.  
-I hold degrees in **Environmental Engineering** and **Systems Development**, and I’m currently specializing in **Data Science & Analytics (PUC-RIO)**.  
-I work with tools like **Databricks, Azure, Power BI, and Python**, and I love transforming raw data into actionable insights.  
-Let’s build data-driven solutions together! 🚀
+<div align="center">
+
+### ☁️ Cloud & Big Data
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 💻 Linguagens & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">✨ Transformando dados em valor — todos os dias! ✨</p>
+## 🎓 Certificações
+
+<details>
+<summary><b>📜 Ver Todas as Certificações (Clique para expandir)</b></summary>
+<br>
+
+| Certificação | Instituição | Área |
+|--------------|-------------|------|
+| 🌟 [Governança de Dados: Conceitos Fundamentais](https://www.alura.com.br/certificados/2dcf795f-f659-4eae-b4d3-1824b8575e0c) | Alura | Data Governance |
+| 🌟 [Data Science: Regressão Linear](https://www.alura.com.br/certificados/616d92b5-d324-4b61-937c-e90d710cf3a0) | Alura | Machine Learning |
+| 🌟 [Formação Data Science](https://www.alura.com.br/certificados/5b4e3bf7-0adf-4a17-8aa7-6455fe7cdee1) | Alura | Data Science |
+| 🌟 [Databricks e Data Factory](https://www.alura.com.br/certificados/f7f1b321-c941-400f-9e69-b0884846dddd) | Alura | Cloud Engineering |
+| 🌟 [Fundamentos de Engenharia de Dados](https://www.datascienceacademy.com.br/certificados/6400288ed95562f1e20b5169) | Data Science Academy | Data Engineering |
+
+</details>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ [Análise de Séries Temporais](https://github.com/brunosuassuna/Analise-Temporal-de-Passageiros-Aereos)
+**Previsão de Demanda de Passageiros Aéreos**
+
+Análise completa de séries temporais com identificação de padrões, tendências sazonais e modelagem preditiva usando Python.
+
+`Python` `Time Series` `Forecasting` `Pandas`
+
+</td>
+<td width="50%">
+
+### 🚖 [NYC Taxi Analysis](https://github.com/brunosuassuna/Analise-de-Corridas-de-Taxi-em-NYC)
+**Analytics de Corridas em Nova York**
+
+Exploração de padrões temporais, geográficos e financeiros usando Databricks e PySpark em dataset público.
+
+`Databricks` `PySpark` `Big Data` `EDA`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍷 [Wine Quality Prediction](https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos)
+**ML para Classificação de Vinhos**
+
+Pipeline completo de ETL, análise exploratória e modelagem preditiva com PySpark para prever qualidade de vinhos.
+
+`Machine Learning` `PySpark` `Classification` `MLlib`
+
+</td>
+<td width="50%">
+
+### 📊 [Sales Analytics Pipeline](https://github.com/brunosuassuna/Analise-de-Vendas)
+**Pipeline de Analytics de Vendas**
+
+Sistema completo de geração, processamento e visualização de dados sintéticos com foco em métricas de negócio.
+
+`ETL` `PySpark` `Plotly` `Business Intelligence`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚽ [Premier League Analytics](https://github.com/brunosuassuna/premier-league-analysis)
+**Análise de Desempenho Esportivo**
+
+Dashboard analítico completo da temporada 2023-2024 com estatísticas de times, jogadores e correlações.
+
+`Sports Analytics` `Visualization` `Statistics`
+
+</td>
+<td width="50%">
+
+### 🦠 [COVID-19 Global Analysis](https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis)
+**Análise de Impacto da Pandemia**
+
+Pipeline com Databricks DeltaLake e visualizações interativas do impacto global da COVID-19 com foco no Brasil.
+
+`DeltaLake` `Plotly` `Pandas` `Health Data`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 [API de Gestão de Usuários](https://github.com/brunosuassuna/API_Gerenciamento_Usuarios)
+**API RESTful com Autenticação**
+
+API robusta para controle e autenticação de usuários desenvolvida em Python com boas práticas de segurança.
+
+`Python` `REST API` `Authentication` `Security`
+
+</td>
+<td width="50%">
+
+### 📊 [MVP Engenharia de Dados](https://github.com/brunosuassuna/MVP-Engenharia-de-Dados)
+**Pipeline Completo de Dados**
+
+Arquitetura end-to-end com Databricks para ingestão, transformação e análise estratégica de dados.
+
+`Databricks` `ETL` `Data Architecture` `Analytics`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📂 [Ver Todos os Projetos →](https://github.com/brunosuassuna?tab=repositories)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunosuassuna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosuassuna&theme=tokyonight&hide_border=true&background=0D1117&ring=FACC15&fire=FACC15&currStreakLabel=FACC15" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosuassuna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=brunosuassuna&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FACC15&line=FACC15&point=C9D1D9" />
+
+</div>
+
+---
+
+## 💼 Competências Principais
+
+<div align="center">
+
+| 🎯 Área | 🛠️ Skills |
+|---------|-----------|
+| **Data Engineering** | ETL/ELT, Data Pipelines, Data Lake, Data Warehouse, Esquema Estrela |
+| **Cloud Computing** | Azure Data Factory, Databricks, Snowflake, Cloud Architecture |
+| **Analytics & BI** | Power BI, Visualização de Dados, Dashboard Development, KPIs |
+| **Programming** | Python (Pandas, NumPy, PySpark), SQL Avançado, APIs REST |
+| **Methodologies** | Scrum, Agile, DataOps, Data Governance |
+| **Soft Skills** | Comunicação Técnica, Pensamento Analítico, Problem Solving, Trabalho em Equipe |
+
+</div>
+
+---
+
+## 🌟 About Me (EN)
+
+> **Hi! I'm Bruno Suassuna**, a passionate Data Engineer from Brazil 🇧🇷  
+> 
+> With degrees in **Environmental Engineering** and **Systems Development**, plus a specialization in **Data Science & Analytics from PUC-RIO**, I bring a unique multidisciplinary perspective to data problems.
+> 
+> Currently working at **The Store Intelligence**, I architect and implement scalable data solutions using **Azure, Databricks, and modern data stack technologies**. My mission is to transform raw data into actionable insights that drive business decisions.
+> 
+> **Let's build data-driven solutions together!** 🚀
+
+---
+
+## 📬 Entre em Contato
+
+<div align="center">
+
+Estou sempre aberto a discutir projetos interessantes, oportunidades de colaboração ou apenas trocar ideias sobre dados!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visite_Meu_Portfólio-FFB000?style=for-the-badge)](https://brunosuassuna.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-suassuna-698aa7235)
+[![Email](https://img.shields.io/badge/Envie_um_Email-D14836?style=for-the-badge&logo=gmail)](mailto:brunosuassuna.dev@gmail.com)
+
+### ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
