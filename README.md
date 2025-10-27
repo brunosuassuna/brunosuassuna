@@ -1,12 +1,29 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Bruno Suassuna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20Suassuna&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20Dados%20em%20Valor&descAlignY=55&descSize=25" width="100%"/>
 
-### Engenheiro de Dados | Cientista de Dados | Especialista em Cloud & Big Data
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-FFB000?style=for-the-badge)](https://brunosuassuna.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-suassuna-698aa7235)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosuassuna.dev@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=👨‍💻+Engenheiro+de+Dados+na+The+Store+Intelligence;📊+Cientista+de+Dados+%7C+Especialista+em+Cloud;☁️+Azure+%7C+Databricks+%7C+PySpark+%7C+SQL;🚀+Arquitetura+de+Dados+Escalável;💡+Analytics+Avançado+%26+Machine+Learning;🎯+De+dados+brutos+a+insights+estratégicos" alt="" />
+
+<br/>
+<br/>
+
+<p>
+  <a href="https://brunosuassuna.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-FFB000?style=for-the-badge&labelColor=1a1a1a&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -15,10 +32,17 @@
 ## 🎯 Sobre Mim
 
 **🚀 Engenheiro de Dados** na **The Store Intelligence**  
-**📍 João Pessoa, Brasil** 🇧🇷  
-**🎓 Pós-Graduação** em Ciência de Dados e Analytics - **PUC-RIO**  
-**💼 Experiência** Engenharia de Dados, Pipelines Escaláveis e Analytics Avançado  
-**🌎 Idiomas:** Português (Nativo) | Espanhol (Avançado)
+**📍 Localização:** João Pessoa, Brasil 🇧🇷
+
+### 🎓 Formação Acadêmica
+- **Graduação:** Análise e Desenvolvimento de Sistemas - **Unipê**  
+- **Pós-Graduação:** Ciência de Dados e Analytics - **PUC-RIO**
+
+### 💼 Experiência
+Especialista em Engenharia de Dados, Pipelines Escaláveis e Analytics Avançado
+
+### 🌎 Idiomas
+Português (Nativo) • Espanhol (Avançado)
 
 > 💡 **Missão:** Transformar dados em insights que geram valor real para o negócio
 
