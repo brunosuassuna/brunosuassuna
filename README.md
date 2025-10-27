@@ -17,7 +17,7 @@
 **🚀 Engenheiro de Dados** na **The Store Intelligence**  
 **📍 João Pessoa, Brasil** 🇧🇷  
 **🎓 Pós-Graduação** em Ciência de Dados e Analytics - **PUC-RIO**  
-**💼 Experiência** Engenhe de Dados, Pipelines Escaláveis e Analytics Avançado  
+**💼 Experiência** Engenheiro de Dados, Pipelines Escaláveis e Analytics Avançado  
 **🌎 Idiomas:** Português (Nativo) | Espanhol (Avançado)
 
 > 💡 **Missão:** Transformar dados em insights que geram valor real para o negócio
