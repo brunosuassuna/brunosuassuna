@@ -6,7 +6,6 @@
 
 <br/>
 
-<!-- Super Badges Premium -->
 <p align="center">
   <a href="https://brunosuassuna.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-FFB000?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" height="35"/>
@@ -22,7 +21,6 @@
   </a>
 </p>
 
-<!-- Metrics Premium -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunosuassuna&label=Profile%20Views&color=FACC15&style=for-the-badge" alt="views" height="28"/>
   <img src="https://img.shields.io/github/followers/brunosuassuna?label=Followers&style=for-the-badge&color=FACC15&labelColor=1a1a1a&logo=github" alt="followers" height="28"/>
@@ -63,7 +61,7 @@ Especialista em construir pipelines escaláveis e arquiteturas modernas de dados
 
 > 💡 **Missão:** Criar ecossistemas de dados que empoderam decisões estratégicas através de insights acionáveis
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 Bruno as Code
 
@@ -109,7 +107,7 @@ print(f"👋 Hello! I'm {bruno.name}")
 print(f"🎯 {bruno.life_philosophy()}")
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Stack Tecnológico
 
@@ -159,7 +157,7 @@ print(f"🎯 {bruno.life_philosophy()}")
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Certificações
 
@@ -180,7 +178,7 @@ print(f"🎯 {bruno.life_philosophy()}")
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Projetos em Destaque
 
@@ -308,7 +306,7 @@ Projeto end-to-end implementando arquitetura Medallion com Databricks seguindo m
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Estatísticas GitHub
 
@@ -326,7 +324,7 @@ Projeto end-to-end implementando arquitetura Medallion com Databricks seguindo m
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Competências Principais
 
@@ -343,7 +341,7 @@ Projeto end-to-end implementando arquitetura Medallion com Databricks seguindo m
 | **Data Governance** | Data Quality • Metadata Management • Lineage • Security • Compliance | ⭐⭐⭐⭐ |
 | **Soft Skills** | Comunicação Técnica • Problem Solving • Agile/Scrum • Liderança • Mentoria | ⭐⭐⭐⭐⭐ |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Diferenciais & Valores
 
@@ -364,7 +362,7 @@ Projeto end-to-end implementando arquitetura Medallion com Databricks seguindo m
 - ⚡ **10x mais rápido** - Pipelines de dados otimizados com PySpark
 - 📊 **500+ TB de dados** processados em ambientes de produção
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Contato
 
@@ -384,29 +382,25 @@ Projeto end-to-end implementando arquitetura Medallion com Databricks seguindo m
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" height="40"/>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🤝 Aberto Para
 
-**💼 Oportunidades de Trabalho** • **🚀 Projetos Freelance** • **🤝 Colaborações**  
+**💼 Oportunidades de Trabalho** • **🚀 Projetos Freelance** • **🤝 Colaborações**
 
 <br/>
 
 ### ⭐ Se você gostou do meu trabalho, considere dar estrelas nos repositórios!
 
-<br/>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<sub>**💻 Desenvolvido com ❤️ e ☕ por Bruno Suassuna**</sub>  
+<sub>**💻 Desenvolvido com ❤️ e ☕ por Bruno Suassuna**</sub>
 
-<br/>
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
