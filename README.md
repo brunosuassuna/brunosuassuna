@@ -1,31 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bruno%20Suassuna&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20Dados%20em%20Decisões%20Estratégicas&descAlignY=55&descSize=28" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=👨‍💻+Engenheiro+de+Dados+%7C+The+Store+Intelligence;📊+Especialista+Azure+%7C+Databricks+%7C+PySpark;🚀+Arquitetura+de+Dados+Escalável+%26+Cloud;💡+De+Dados+Brutos+a+Insights+Acionáveis;🔥+4%2B+Anos+de+Experiência+em+Engenharia+de+Dados" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060D1A,25:0A1929,65:0078D4,100:1D4ED8&height=280&section=header&text=Bruno%20Suassuna&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%20Data%20Engineer%20%7C%20Azure%20%C2%B7%20Databricks%20%C2%B7%20PySpark%20%C2%B7%20ML&descAlignY=60&descSize=20&descColor=93C5FD" width="100%"/>
 
 <br/>
 
-<p align="center">
-  <a href="https://brunosuassuna.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-FFB000?style=for-the-badge&labelColor=1a1a1a" alt="Portfolio" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" height="35"/>
-  </a>
-  <a href="mailto:brunosuassuna.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" height="35"/>
-  </a>
-  <a href="https://github.com/brunosuassuna" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" height="35"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=FACC15&center=true&vCenter=true&width=820&height=50&lines=👨‍💻+Engenheiro+de+Dados+%7C+The+Store+Intelligence;📊+Especialista+Azure+%7C+Databricks+%7C+PySpark;🏗️+Arquitetura+Medallion%3A+Bronze+→+Silver+→+Gold+✓;⚡+500%2B+TB+processados+em+produção...;🚀+De+dados+brutos+a+insights+estratégicos)](https://brunosuassuna.github.io/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunosuassuna&label=Profile%20Views&color=FACC15&style=for-the-badge" alt="views" height="28"/>
-  <img src="https://img.shields.io/github/followers/brunosuassuna?label=Followers&style=for-the-badge&color=FACC15&labelColor=1a1a1a&logo=github" alt="followers" height="28"/>
-  <img src="https://img.shields.io/github/stars/brunosuassuna?label=Stars&style=for-the-badge&color=FACC15&labelColor=1a1a1a&logo=github" alt="stars" height="28"/>
-</p>
+<br/>
+
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-0078D4?style=for-the-badge&labelColor=060D1A)](https://brunosuassuna.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060D1A)](https://www.linkedin.com/in/bruno-suassuna-698aa7235)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1A)](mailto:brunosuassuna.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=060D1A)](https://github.com/brunosuassuna)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=brunosuassuna&label=Profile+Views&color=FACC15&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/brunosuassuna?label=Followers&style=for-the-badge&color=FACC15&labelColor=060D1A&logo=github)
+![Stars](https://img.shields.io/github/stars/brunosuassuna?label=Stars&style=for-the-badge&color=FACC15&labelColor=060D1A&logo=github)
+![Experience](https://img.shields.io/badge/Experiência-4%2B_Anos-FACC15?style=for-the-badge&labelColor=060D1A)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
