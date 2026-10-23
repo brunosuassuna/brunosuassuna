@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://brunosuassuna.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-0A62C9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=060D1A" alt="Portfólio"/></a>
-<a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060D1A" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/brunosuassuna"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060D1A" alt="LinkedIn"/></a>
 <a href="mailto:brunosuassuna.dev@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1A" alt="E-mail"/></a>
 <a href="https://github.com/brunosuassuna?tab=repositories"><img src="https://img.shields.io/badge/REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=060D1A" alt="Repositórios"/></a>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="assets/architecture.svg" width="100%" alt="Arquitetura: Fontes, Orquestrador, Bronze, Silver, Gold, Power BI e MLflow"/>
+<img src="assets/architecture.svg" width="100%" alt="Arquitetura: Fontes, Orquestrador, Bronze, Silver, Gold, Dataset, Power BI e MLflow"/>
 
 </div>
 
@@ -223,7 +223,7 @@ Gosto de trocar ideias sobre **engenharia de dados, Azure, Databricks, Snowflake
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bruno-suassuna-698aa7235"><img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/brunosuassuna"><img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:brunosuassuna.dev@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 <a href="https://brunosuassuna.github.io/"><img src="https://img.shields.io/badge/Ver_portfólio-0A62C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 
