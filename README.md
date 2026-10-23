@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="assets/architecture.svg" width="100%" alt="Arquitetura: Fontes, Data Factory, Bronze, Silver, Gold, Power BI e MLflow"/>
+<img src="assets/architecture.svg" width="100%" alt="Arquitetura: Fontes, Orquestrador, Bronze, Silver, Gold, Power BI e MLflow"/>
 
 </div>
 
